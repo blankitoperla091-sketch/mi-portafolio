@@ -1,0 +1,18 @@
+{
+  "name": "Juan Carlos Alcántara Custodio",
+  "role": "Full-Stack Developer",
+  "vision": "Disciplina, fe y constancia para llegar lejos.",
+  "stats": [
+    {"label": "Objetivo", "value": "Impactar"},
+    {"label": "Ruta", "value": "Full-Stack"},
+    {"label": "Mentalidad", "value": "Constancia"}
+  ],
+  "skills": [
+    "Python",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "FastAPI",
+    "Visual Studio Code"
+  ]
+}
